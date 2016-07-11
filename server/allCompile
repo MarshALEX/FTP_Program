@@ -1,0 +1,3 @@
+#!/bin/bash
+#
+g++ ftserver.cpp -o ftserver
